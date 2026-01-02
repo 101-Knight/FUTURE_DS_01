@@ -5,7 +5,7 @@ Superstore Sales Performance Dashboard:
 A visual overview of key sales metrics, product trends, and regional performance for a retail superstore.
 
 Purpose: 
-To help business stakeholders monitor sales performance, identify top-selling products and regions, and optimize shipping and inventory decisions using data-driven insights.
+To help business stakeholders monitor sales performance, identify top-selling products and regions, and optimize shipping and inventory decisions using data-driven insights. This project is a part of my Data Science and Analytics Internship at Future Interns where I have to create an interactive and professional dashboard on an e-commerce sales data.
 
 Tech Stack:
 The dashboard was built using the following tools and technologies:
