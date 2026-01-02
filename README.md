@@ -63,3 +63,4 @@ Business Impact & Insights -
 - Monthly and regional shipping trends reveal operational bottlenecks and optimization opportunities.
 
 Screenshot: 
+(https://github.com/101-Knight/FUTURE_DS_01/blob/main/Superstore%20Sales%20Dashboard.png)
